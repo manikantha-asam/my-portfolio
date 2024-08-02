@@ -8,6 +8,7 @@ Welcome to my portfolio website built with Vite and React! This portfolio showca
 - [Features](#features)
 - [Setup](#setup)
 
+![image](https://github.com/user-attachments/assets/4d8facbb-d2a9-4daa-a91b-65de6f511af4)
 
 ## Introduction
 
