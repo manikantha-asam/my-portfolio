@@ -7,12 +7,7 @@ Welcome to my portfolio website built with Vite and React! This portfolio showca
 - [Introduction](#introduction)
 - [Features](#features)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
